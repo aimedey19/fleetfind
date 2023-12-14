@@ -1,0 +1,44 @@
+Metadata-Version: 2.1
+Name: fleetfind
+Version: 0.0.1
+Summary: A Django package for searching across multiple models
+Home-page: https://github.com/da-kodesio/fleetfind
+Author: Aimé An-Nyong DEGBEY
+Author-email: annyongdey19@gmail.com
+License: UNKNOWN
+Project-URL: Source, https://github.com/yourusername/fleetfind
+Keywords: django search multi-model
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# FleetFind
+
+FleetFind is a lightweight Django package that empowers you to seamlessly search across multiple models in your Django projects. It provides a flexible and efficient way to aggregate search results from various sources, making it easy to implement a unified search experience.
+
+## Features
+
+- **Multi-Model Search:** FleetFind allows you to perform searches across different Django models simultaneously.
+
+- **Easy Integration:** With a simple setup process, FleetFind seamlessly integrates with your existing Django project, minimizing development overhead.
+
+- **Customizable:** FleetFind is highly customizable, allowing you to define specific search criteria and tune the search experience to meet your project's requirements.
+
+## Installation
+
+To install FleetFind, simply use pip:
+
+```bash
+pip install fleetfind
+
+
