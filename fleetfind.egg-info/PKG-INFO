@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: fleetfind
-Version: 0.0.2
+Version: 0.0.3
 Summary: A Django package for searching across multiple models
 Home-page: https://github.com/da-kodesio/fleetfind
 Author: Aimé An-Nyong DEGBEY

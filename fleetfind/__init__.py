@@ -1,4 +1,3 @@
-import main
+from .main import fleetfind
 
-fleetfind = main.fleetfind
-__all__ = ["fleetfind"]
+fleetfind = fleetfind
