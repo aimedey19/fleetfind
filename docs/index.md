@@ -1,5 +1,12 @@
 # FleetFind Documentation
 
+
+
+[![pypi](https://badge.fury.io/py/sse-relay-server.svg)](https://pypi.org/project/fleetfind/)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/da-kodesio/fleetfind/blob/main/LICENSE)
+
+
 Welcome to the documentation for FleetFind. This guide provides comprehensive information on how to use, install, and contribute to FleetFind.
 
 ## Introduction
