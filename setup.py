@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='fleetfind',
-    version='1.0.0',
+    version='1.0.1',
     packages=find_packages(),
     install_requires=[
         # List your dependencies here
@@ -20,7 +20,7 @@ setup(
     description='A Django package for searching across multiple models',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/da-kodesio/fleetfind',
+    url='https://da-kodesio.github.io/fleetfind',
     classifiers=[
         'Development Status :: 3 - Alpha',
         'Intended Audience :: Developers',
