@@ -5,7 +5,7 @@ from django.db.models import Q, CharField, TextField
 def fleetfind(search_query: str = None, models: dict = None):
     search_models = models
     if not search_models:
-        raise ValueError("SEARCH_MODELS is empty. Add the models you want to use for searching in the settings.")
+        raise ValueError("search_models is empty. Please provide a dictionary of models to search.")
     search_results = []
     for search_model in search_models.keys():
         if not search_models[search_model] == "__all__":

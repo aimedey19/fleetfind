@@ -1,1 +1,3 @@
-from main import fleetfind
+import main
+
+fleetfind = main.fleetfind
