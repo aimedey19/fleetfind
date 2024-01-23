@@ -1,14 +1,12 @@
 Metadata-Version: 2.1
 Name: fleetfind
-Version: 1.0.1
+Version: 1.1.0
 Summary: A Django package for searching across multiple models
 Home-page: https://da-kodesio.github.io/fleetfind
 Author: Aimé An-Nyong DEGBEY
 Author-email: annyongdey19@gmail.com
-License: UNKNOWN
 Project-URL: Source, https://github.com/yourusername/fleetfind
 Keywords: django search multi-model
-Platform: UNKNOWN
 Classifier: Development Status :: 3 - Alpha
 Classifier: Intended Audience :: Developers
 Classifier: License :: OSI Approved :: MIT License
@@ -21,6 +19,7 @@ Classifier: Programming Language :: Python :: 3.10
 Classifier: Programming Language :: Python :: 3.11
 Requires-Python: >=3.6
 Description-Content-Type: text/markdown
+Requires-Dist: django>=2.2
 
 # FleetFind
 
@@ -40,5 +39,3 @@ To install FleetFind, simply use pip:
 
 ```bash
 pip install fleetfind
-
-
